@@ -6,7 +6,7 @@
 <html data-theme='default'>
 <head>
 <meta charset='utf-8'>
-<title>Power88 ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini</title>
+<title>Merapi4d ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini</title>
 <link rel="icon" type="image/x-icon" href=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" />
 <link rel="apple-touch-icon" href=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901">
 <link rel="canonical" href="https://merapi4d.github.io/">
@@ -72,10 +72,10 @@
 <meta name="language" content="Indonesia">
 <meta name="tgn.nation" content="Indonesia">
 <meta name="distribution" content="global">
-<meta name="publisher" content="Power88">
-<meta name="dc.Publisher" content="Power88">
+<meta name="publisher" content="Merapi4d">
+<meta name="dc.Publisher" content="Merapi4d">
 <meta name="dc.language" content="id,en">
-<meta name="owner" content="Power88">
+<meta name="owner" content="Merapi4d">
 <meta name="googlebot" content="index,follow">
 <meta name="Googlebot-Image" content="follow, all">
 <meta name="Scooter" content="follow, all">
@@ -85,10 +85,10 @@
 <meta name="ZyBorg" content="follow, all">
 <meta name="yahoobot" content="follow, all">
 <meta name="bingbot" content="follow, all">
-<meta content='Power88 ⚡ Peluang & prediksi saham BBCA BBRI TLKM minggu ini. Analisis lengkap, target harga, dan rekomendasi trading saham bluechip Indonesia.' name='description'>
-<meta content="keyword" name="Power88">
-<meta property="og:title" content="Power88 ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini">
-<meta property="og:description" content="Power88 ⚡ Peluang & prediksi saham BBCA BBRI TLKM minggu ini. Analisis lengkap, target harga, dan rekomendasi trading saham bluechip Indonesia.">
+<meta content='Merapi4d ⚡ Peluang & prediksi saham BBCA BBRI TLKM minggu ini. Analisis lengkap, target harga, dan rekomendasi trading saham bluechip Indonesia.' name='description'>
+<meta content="keyword" name="Merapi4d">
+<meta property="og:title" content="Merapi4d ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini">
+<meta property="og:description" content="Merapi4d ⚡ Peluang & prediksi saham BBCA BBRI TLKM minggu ini. Analisis lengkap, target harga, dan rekomendasi trading saham bluechip Indonesia.">
 <meta property="og:price:amount" content="10.000">
 <meta property="og:price:currency" content="IDR">
 <meta property="og:type" content="website">
@@ -107,7 +107,7 @@
   window.dataLayer = window.dataLayer || [];
 </script>
 <script>
-  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://merapi4d.github.io/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74165272_0.jpg","design__url":"https://merapi4d.github.io/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"Power88 ⚡ Peluang & prediksi saham BBCA BBRI TLKM minggu ini. Analisis lengkap, target harga, dan rekomendasi trading saham bluechip Indonesia.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"15618785B5F25G95A1M"})
+  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://merapi4d.github.io/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74165272_0.jpg","design__url":"https://merapi4d.github.io/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"Merapi4d ⚡ Peluang & prediksi saham BBCA BBRI TLKM minggu ini. Analisis lengkap, target harga, dan rekomendasi trading saham bluechip Indonesia.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"15618785B5F25G95A1M"})
 </script>
 <script>
   window.dataLayer.push({
@@ -120,7 +120,7 @@
           "product_id": "357",
           "price": "23.0",
           "price_usd": "23.0",
-          "name": "Power88",
+          "name": "Merapi4d",
           "id": "74165272",
           "brand": "Hey siriusly",
           "design_color": "Red",
@@ -514,7 +514,7 @@ ga('require', 'GTM-KL7BC3L');
 <span class='link__content'>
  <div class="header-mini__logo" bis_skin_checked="1">
                                     <a href="https://merapi4d.github.io/">
-                                        <img alt="Power88" src="https://ik.imagekit.io/hosterin/logo-Kadobet.png?updatedAt=1748328865050" style="height:40px; width:215px; display: flex; justify-content: flex-start;margin-left: -60px;">
+                                        <img alt="Merapi4d" src="https://ik.imagekit.io/hosterin/logo-Kadobet.png?updatedAt=1748328865050" style="height:40px; width:215px; display: flex; justify-content: flex-start;margin-left: -60px;">
                                     </a>
 </div>
 </span>
@@ -527,10 +527,10 @@ ga('require', 'GTM-KL7BC3L');
 <div class='m-header__search-field-container'>
 <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
 <div class='m-header__search-field-placeholder'>
-<p>SELAMAT DATANG DI SITUS RESMI Power88</p>
-<p>Power88 LAYANAN SITUS TERBAIK</p>
-<p>Power88 LAYANAN LIVE CHAT PROFESIONAL</p>
-<p>KETIK DI GOOGLE 'Power88'</p>
+<p>SELAMAT DATANG DI SITUS RESMI Merapi4d</p>
+<p>Merapi4d LAYANAN SITUS TERBAIK</p>
+<p>Merapi4d LAYANAN LIVE CHAT PROFESIONAL</p>
+<p>KETIK DI GOOGLE 'Merapi4d'</p>
 </div>
 </div>
 <input type="text" name="query" id="jsAutoCompleteHeader" class="form__control m-header__search-field jsHeadSearchField gtmSearchHeaderQuery" data-searchUrl="/search/autocomplete" data-trendingSearchResults="[{&quot;result&quot;:&quot;kpop demon hunters&quot;,&quot;score&quot;:38.23},{&quot;result&quot;:&quot;weird twitter&quot;,&quot;score&quot;:18.57},{&quot;result&quot;:&quot;eagles football&quot;,&quot;score&quot;:17.06},{&quot;result&quot;:&quot;detroit lions&quot;,&quot;score&quot;:16.81},{&quot;result&quot;:&quot;i offended you&quot;,&quot;score&quot;:16.45},{&quot;result&quot;:&quot;i run a tight shipwreck&quot;,&quot;score&quot;:7.38},{&quot;result&quot;:&quot;bad bunny&quot;,&quot;score&quot;:7.13},{&quot;result&quot;:&quot;jane goodall&quot;,&quot;score&quot;:6.8},{&quot;result&quot;:&quot;bad knees&quot;,&quot;score&quot;:6.16},{&quot;result&quot;:&quot;kindness is punk&quot;,&quot;score&quot;:5.91},{&quot;result&quot;:&quot;aunt tifa&quot;,&quot;score&quot;:5.86},{&quot;result&quot;:&quot;steelers football&quot;,&quot;score&quot;:5.7},{&quot;result&quot;:&quot;eyepatch rev&quot;,&quot;score&quot;:4.9},{&quot;result&quot;:&quot;eagles&quot;,&quot;score&quot;:4.41},{&quot;result&quot;:&quot;jaxson dart&quot;,&quot;score&quot;:4.02},{&quot;result&quot;:&quot;buffalo bills&quot;,&quot;score&quot;:3.94},{&quot;result&quot;:&quot;dungeon crawler carl&quot;,&quot;score&quot;:3.89},{&quot;result&quot;:&quot;doctor who&quot;,&quot;score&quot;:3.87},{&quot;result&quot;:&quot;government shutdown&quot;,&quot;score&quot;:3.61},{&quot;result&quot;:&quot;ankylosaurus&quot;,&quot;score&quot;:3.51},{&quot;result&quot;:&quot;chicago bears&quot;,&quot;score&quot;:3.34},{&quot;result&quot;:&quot;crucial catch&quot;,&quot;score&quot;:2.9},{&quot;result&quot;:&quot;sumud flotilla&quot;,&quot;score&quot;:2.82},{&quot;result&quot;:&quot;funny hardhat&quot;,&quot;score&quot;:2.29},{&quot;result&quot;:&quot;haunted by 67&quot;,&quot;score&quot;:2.21},{&quot;result&quot;:&quot;ozzy osbourne&quot;,&quot;score&quot;:2.2},{&quot;result&quot;:&quot;buffalo bills football team&quot;,&quot;score&quot;:2.13},{&quot;result&quot;:&quot;i am aunt tifa&quot;,&quot;score&quot;:2.04},{&quot;result&quot;:&quot;the river city&quot;,&quot;score&quot;:2.0},{&quot;result&quot;:&quot;super mario&quot;,&quot;score&quot;:1.99},{&quot;result&quot;:&quot;rocky horror&quot;,&quot;score&quot;:1.99},{&quot;result&quot;:&quot;halloween 3&quot;,&quot;score&quot;:1.82},{&quot;result&quot;:&quot;michael jordan&quot;,&quot;score&quot;:1.81},{&quot;result&quot;:&quot;creepshow&quot;,&quot;score&quot;:1.81},{&quot;result&quot;:&quot;scott hall&quot;,&quot;score&quot;:1.8},{&quot;result&quot;:&quot;boston celtics&quot;,&quot;score&quot;:1.79},{&quot;result&quot;:&quot;3i atlas&quot;,&quot;score&quot;:1.77},{&quot;result&quot;:&quot;same shit different&quot;,&quot;score&quot;:1.7},{&quot;result&quot;:&quot;chinga la migra&quot;,&quot;score&quot;:1.62},{&quot;result&quot;:&quot;radical left&quot;,&quot;score&quot;:1.61},{&quot;result&quot;:&quot;digimon&quot;,&quot;score&quot;:1.6},{&quot;result&quot;:&quot;halloween cat&quot;,&quot;score&quot;:1.6},{&quot;result&quot;:&quot;tropic thunder&quot;,&quot;score&quot;:1.42},{&quot;result&quot;:&quot;no kings anti trump&quot;,&quot;score&quot;:1.41},{&quot;result&quot;:&quot;no concert today&quot;,&quot;score&quot;:1.41},{&quot;result&quot;:&quot;the life of a showgirl&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;seven samurai&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;do not harm authenticc since mmxx take&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;acdc&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;ohio state buckeyes&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;borderlands&quot;,&quot;score&quot;:1.39},{&quot;result&quot;:&quot;star trek&quot;,&quot;score&quot;:1.37},{&quot;result&quot;:&quot;80s movies&quot;,&quot;score&quot;:1.29},{&quot;result&quot;:&quot;max verstappen&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;robocop&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;siempre antifascista&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;pelosi funny&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;pete rose&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;macho man fred savage&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;youngboy masa&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;dirty dancing&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;las vegas aces&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;syracuse&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;war games&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;johnny cash&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;surfing&quot;,&quot;score&quot;:1.19},{&quot;result&quot;:&quot;steelers ireland&quot;,&quot;score&quot;:1.19},{&quot;result&quot;:&quot;iron man&quot;,&quot;score&quot;:1.19},{&quot;result&quot;:&quot;attack on titan&quot;,&quot;score&quot;:1.18},{&quot;result&quot;:&quot;michael myers&quot;,&quot;score&quot;:1.13},{&quot;result&quot;:&quot;resident evil&quot;,&quot;score&quot;:1.1},{&quot;result&quot;:&quot;wait what&quot;,&quot;score&quot;:1.05},{&quot;result&quot;:&quot;wkrp in cincinnati&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;dodgers baseball&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;cartoon network&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;blue velvwt&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;tombstone&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;can i lick it&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;contra&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;george kittle&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;rick and morty&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;knicks basketball&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;blondie band&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;cyberpunk edgerunners&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;drake rapper&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;benito bowl&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;battlefront 2&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;chad powers&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;slapshot&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;book lovers&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;modest mouse&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;new balance&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;sunami&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;youngboy&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;rock climbing&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;beanie&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;halloweentown est 1998&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;dnd warlock&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;definitely not a cop&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;i love fall most of all&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;renathornton&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;retro philadelphia phillies&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;no problemo&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;weed&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;school bus driver&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;chinga tu maga&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;nj devils&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;sci fi&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;possum&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;replacements band&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;spite&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;political protest&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;scream&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;dad&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;red bull&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;80s tv&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;pabst blue ribbon&quot;,&quot;score&quot;:0.99},{&quot;result&quot;:&quot;pittsburgh steelers&quot;,&quot;score&quot;:0.93},{&quot;result&quot;:&quot;cleveland browns&quot;,&quot;score&quot;:0.9},{&quot;result&quot;:&quot;eyepatch reveille&quot;,&quot;score&quot;:0.85},{&quot;result&quot;:&quot;rams football&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;engineer&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;road house&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;pigeon&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;lock em up&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;patsymahon&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;jesus meme&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;darmok and jalad&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;enemy within&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;unreliable narrator&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;miller high life&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;bernie parent - philadelphia blazers&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;black keys&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;rhino&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;gibson guitar&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;disney land&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;oddworld&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;mike mussina in baltimore orioles&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dressed to impress roblox&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ryan bingham&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;emmet otter&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;zildjian cymbals&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;no you hang up&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;luigi&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ace ventura&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;tyler thecreator&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;berserk anime&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;grandpa&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;the growlers&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;the warning&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;care bear&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;protect ya neck&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;poison&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;jason&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;fernando valenzuela&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;pulseretail&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;show business&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;trailer park&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;terry mclaurin washington scary terry&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;liliaamer1&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;9/11&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;rey mysterio&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;demon slayer inosuke&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ally&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;german shepherd&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;game of thrones&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;lebron&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dance&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;returns and refund&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;glacier national park montana&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;investor&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;miller lite&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;casper&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;terry funk&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;big boy&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ny yankees&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;super furry animals&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;one lonely beastie i be&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dismember band&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;bluey lions&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;revenge of the ninja&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;silence ofthe lambs dog&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dia de los muertos sugar skull&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;don&#39;t tell mom the babysitter&#39;s dead&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;siouxie and banshees&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;fraggle rock  long sleeved&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;halloween characters&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;river city&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;retro kansas city football vintage chiefs est 1960&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;the life of an eldest daughter&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;manual transmission&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;pete rose vintage&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;light yellow tshirt with green lini g&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;international harvester&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;black cats&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;wonder twins&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;volbeat band&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;smiley&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;they&#39;re coming to get you barbara&quot;,&quot;score&quot;:0.8}]" data-maxresults="6" data-animated="true" data-navigation--header-target="searchField" data-search-history="true" data-search-history-ca-show-notice="false" data-search-history-clear="<span class=&quot;teepublicon teepublicon--color-orange-400 teepublicon-background--transparent&quot;><svg xmlns=&quot;https://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 48 48&quot; width=&quot;16&quot; height=&quot;16&quot; focusable=&quot;false&quot; aria-hidden=&quot;true&quot;><path d=&quot;M6.88 36.879a3 3 0 1 0 4.242 4.242L24 28.243 36.879 41.12a3 3 0 1 0 4.243-4.242L28.243 24l12.879-12.879a3 3 0 1 0-4.243-4.242L24.001 19.757 11.12 6.88a3 3 0 1 0-4.24 4.24L19.758 24 6.879 36.879Z&quot;></path></svg></span>" data-search-history-clock="<span class=&quot;teepublicon teepublicon--color-orange-400 teepublicon-background--transparent&quot;><svg viewbox=&quot;0 0 48 48&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; focusable=&quot;false&quot; aria-hidden=&quot;true&quot;>
@@ -613,49 +613,49 @@ Shop All Designs
 </a>
 <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://merapi4d.github.io/" title="Halloween T-Shirts" href="https://merapi4d.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-Power88 
+Merapi4d 
 
 </span>
 
 </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://merapi4d.github.io/" title="Music T-Shirts" href="https://merapi4d.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-SITUS Power88
+SITUS Merapi4d
 
 </span>
 
 </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://merapi4d.github.io/" title="Sport T-Shirts" href="https://merapi4d.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-Power88 DAFTAR 
+Merapi4d DAFTAR 
 
 </span>
 
 </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://merapi4d.github.io/" title="Movie T-Shirts" href="https://merapi4d.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-Power88 EDUKASI
+Merapi4d EDUKASI
 
 </span>
 
 </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://merapi4d.github.io/" title="Vintage T-Shirts" href="https://merapi4d.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-Power88 LAYANAN 
+Merapi4d LAYANAN 
 
 </span>
 
 </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://merapi4d.github.io/" title="Animal T-Shirts" href="https://merapi4d.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-Power88 TERBARU
+Merapi4d TERBARU
 
 </span>
 
 </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://merapi4d.github.io/" title="Television T-Shirts" href="https://merapi4d.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-Power88 RESMI
+Merapi4d RESMI
 
 </span>
 
 </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://merapi4d.github.io/" title="Funny T-Shirts" href="https://merapi4d.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-Power88 GACOR
+Merapi4d GACOR
 </span>
 </a></div>
 </div>
@@ -742,8 +742,8 @@ Please enable Javascript and return here.
 {
   "@context":    "https://schema.org",
   "@type":       "Product",
-  "name":        "Power88 ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini",
-  "description": "Power88 ⚡ Peluang & prediksi saham BBCA BBRI TLKM minggu ini. Analisis lengkap, target harga, dan rekomendasi trading saham bluechip Indonesia.",
+  "name":        "Merapi4d ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini",
+  "description": "Merapi4d ⚡ Peluang & prediksi saham BBCA BBRI TLKM minggu ini. Analisis lengkap, target harga, dan rekomendasi trading saham bluechip Indonesia.",
   "category":    "T-Shirt",
   "url":         "https://merapi4d.github.io/",
   "sku":         "15618785B5F25G95A1M",
@@ -775,42 +775,42 @@ Please enable Javascript and return here.
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "1. Apa itu Power88 dan mengapa banyak pemain membicarakannya?",
+      "name": "1. Apa itu Merapi4d dan mengapa banyak pemain membicarakannya?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Power88 merupakan platform hiburan game spin online yang menawarkan berbagai permainan menarik dengan tampilan modern dan sistem yang mudah diakses. Banyak pemain menyukai Power88 karena konsep permainannya santai dan dapat dimainkan kapan saja."
+        "text": "Merapi4d merupakan platform hiburan game spin online yang menawarkan berbagai permainan menarik dengan tampilan modern dan sistem yang mudah diakses. Banyak pemain menyukai Merapi4d karena konsep permainannya santai dan dapat dimainkan kapan saja."
       }
     },
     {
       "@type": "Question",
-      "name": "2. Mengapa Power88 menggunakan konsep “Menang Atau Kalah? Spin Aja Dulu Malam Ini”?",
+      "name": "2. Mengapa Merapi4d menggunakan konsep “Menang Atau Kalah? Spin Aja Dulu Malam Ini”?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Konsep tersebut menggambarkan bahwa permainan di Power88 dirancang untuk memberikan hiburan tanpa tekanan. Pemain dapat menikmati setiap putaran spin dengan santai sambil merasakan sensasi permainan yang seru."
+        "text": "Konsep tersebut menggambarkan bahwa permainan di Merapi4d dirancang untuk memberikan hiburan tanpa tekanan. Pemain dapat menikmati setiap putaran spin dengan santai sambil merasakan sensasi permainan yang seru."
       }
     },
     {
       "@type": "Question",
-      "name": "3. Apakah permainan di Power88 cocok untuk pemain baru?",
+      "name": "3. Apakah permainan di Merapi4d cocok untuk pemain baru?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Power88 mencakup asesmen kebutuhan, koordinasi perawatan, pendampingan keluarga, dan pengawasan kesejahteraan Gamers."
+        "text": "Merapi4d mencakup asesmen kebutuhan, koordinasi perawatan, pendampingan keluarga, dan pengawasan kesejahteraan Gamers."
       }
     },
     {
       "@type": "Question",
-      "name": "4. Siapa yang membutuhkan layanan Power88?",
+      "name": "4. Siapa yang membutuhkan layanan Merapi4d?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Power88 cocok bagi Gamers dan keluarga yang membutuhkan dukungan profesional untuk perawatan jangka panjang di rumah."
+        "text": "Merapi4d cocok bagi Gamers dan keluarga yang membutuhkan dukungan profesional untuk perawatan jangka panjang di rumah."
       }
     },
     {
       "@type": "Question",
-      "name": "5. Apa keunggulan utama Power88?",
+      "name": "5. Apa keunggulan utama Merapi4d?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Power88 mengutamakan pendekatan personal, profesionalisme tinggi, dan fokus pada kemandirian Gamers."
+        "text": "Merapi4d mengutamakan pendekatan personal, profesionalisme tinggi, dan fokus pada kemandirian Gamers."
       }
     }
   ]
@@ -827,37 +827,37 @@ Please enable Javascript and return here.
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "Power88",
+          "name": "Merapi4d",
           "item": "https://merapi4d.github.io/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "SITUS Power88",
+          "name": "SITUS Merapi4d",
           "item": "https://merapi4d.github.io/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Power88 DAFTAR RESEP"
+          "name": "Merapi4d DAFTAR RESEP"
         }
       ]
     },
     {
       "@type": "Product",
       "@id": "https://merapi4d.github.io/",
-      "name": "Power88 ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini",
-      "description": "Power88 ⚡ Peluang & prediksi saham BBCA BBRI TLKM minggu ini. Analisis lengkap, target harga, dan rekomendasi trading saham bluechip Indonesia.",
-      "sku": "Power88",
+      "name": "Merapi4d ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini",
+      "description": "Merapi4d ⚡ Peluang & prediksi saham BBCA BBRI TLKM minggu ini. Analisis lengkap, target harga, dan rekomendasi trading saham bluechip Indonesia.",
+      "sku": "Merapi4d",
       "brand": {
         "@type": "Brand",
-        "name": "Power88"
+        "name": "Merapi4d"
       },
       "image": [
         "https://ik.imagekit.io/hosterin/kadobetin.jpg",
         "https://ik.imagekit.io/hosterin/kadobetin.jpg"
       ],
-      "category": "Power88 < SITUS < Power88 ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini",
+      "category": "Merapi4d < SITUS < Merapi4d ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini",
       "offers": {
         "@type": "Offer",
         "url": "https://merapi4d.github.io/",
@@ -877,7 +877,7 @@ Please enable Javascript and return here.
           "@type": "Review",
           "author": { "@type": "Person", "name": "Labubu - Jakarta" },
           "datePublished": "2026-02-28",
-          "reviewBody": "Saya sudah mencoba banyak platform game online, tapi Power88 terasa berbeda. Tampilan permainannya modern dan setiap spin memberikan sensasi yang seru. Yang paling saya suka adalah aksesnya cepat dan mudah digunakan.",
+          "reviewBody": "Saya sudah mencoba banyak platform game online, tapi Merapi4d terasa berbeda. Tampilan permainannya modern dan setiap spin memberikan sensasi yang seru. Yang paling saya suka adalah aksesnya cepat dan mudah digunakan.",
           "name": "Labubu - Jakarta",
           "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" }
         },
@@ -885,7 +885,7 @@ Please enable Javascript and return here.
           "@type": "Review",
           "author": { "@type": "Person", "name": "Srey Neang - Poipet" },
           "datePublished": "2026-02-28",
-          "reviewBody": "Pertama kali mencoba Power88 hanya karena penasaran, tapi ternyata cukup menyenangkan. Pilihan permainan spin yang tersedia juga beragam, jadi tidak cepat bosan saat bermain.",
+          "reviewBody": "Pertama kali mencoba Merapi4d hanya karena penasaran, tapi ternyata cukup menyenangkan. Pilihan permainan spin yang tersedia juga beragam, jadi tidak cepat bosan saat bermain.",
           "name": "Srey Neang - Poipet",
           "reviewRating": { "@type": "Rating", "ratingValue": "4.7", "bestRating": "5" }
         }
@@ -910,7 +910,7 @@ Design ID:
 
 <div class='m-design__product' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='pdp'>
 <div class='m-design-details__title'>
-<h1 class='h__h1--sm h--no-s-b' title='George Kittle F Dallas Kittle - George Kittle - T-Shirt'>Power88 ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini</h1>
+<h1 class='h__h1--sm h--no-s-b' title='George Kittle F Dallas Kittle - George Kittle - T-Shirt'>Merapi4d ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini</h1>
 <div class='m-design__prices'>
 <span class='m-design__price m-design__price--sale jsProductSalePrice'>
 $18
@@ -949,7 +949,7 @@ Back
 <ul class='glide__slides'>
 <li class='glide__slide m-product-preview__glider-slide' data-default='active' data-id='0' data-label=''>
 <picture class='m-product-preview__glider-img'>
-<img alt='Power88 ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini by Hey siriusly' class='mockup jsProductMainImage' src='https://ik.imagekit.io/hosterin/kadobetin.jpg'>
+<img alt='Merapi4d ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini by Hey siriusly' class='mockup jsProductMainImage' src='https://ik.imagekit.io/hosterin/kadobetin.jpg'>
 </picture>
 </li>
 <li class='glide__slide m-product-preview__glider-slide' data-default='' data-id='1' data-label=''>
@@ -972,7 +972,7 @@ Back
 <a data-id="0" href="javascript:void(0);" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
-<img alt='Power88 ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini by Hey siriusly' class='mockup' loading='lazy' src='https://ik.imagekit.io/hosterin/kadobetin.jpg'>
+<img alt='Merapi4d ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini by Hey siriusly' class='mockup' loading='lazy' src='https://ik.imagekit.io/hosterin/kadobetin.jpg'>
 </picture>
 
 </span>
@@ -997,7 +997,7 @@ Back
 <div class='m-cart-config__option m-cart-config__option--color jsCartConfigColorOption' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='color' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <p class='m-cart-config__color-label'>
 <strong></strong>
-<span class='m-cart-config__color-name jsConfigColorName'>Power88 memberikan kenyamanan maksimal bagi para pengguna.</span>
+<span class='m-cart-config__color-name jsConfigColorName'>Merapi4d memberikan kenyamanan maksimal bagi para pengguna.</span>
 </p>
 <div class='m-cart-config__colors2 jsCartConfigColors jsHorizontalScroll' role='radiogroup'>
 </div>
@@ -1040,12 +1040,12 @@ Back
 </style>
 </div>
 </div>
-<p class='m-design-details__description-text' data-utilities--read-more-target='content'><a href="https://merapi4d.github.io/">Power88</a>⚡Analisis teknikal menunjukkan BBCA sedang konsolidasi sehat di atas support Rp6.350–Rp6.400 dengan resistance terdekat di Rp6.600–Rp6.750.
+<p class='m-design-details__description-text' data-utilities--read-more-target='content'><a href="https://merapi4d.github.io/">Merapi4d</a>⚡Analisis teknikal menunjukkan BBCA sedang konsolidasi sehat di atas support Rp6.350–Rp6.400 dengan resistance terdekat di Rp6.600–Rp6.750.
 </p>
 <br>
-<p class='m-design-details__description-text' data-utilities--read-more-target='content'>Melalui Power88  , Analisis teknikal menunjukkan BBCA sedang konsolidasi sehat di atas support Rp6.350–Rp6.400 dengan resistance terdekat di Rp6.600–Rp6.750.  </p>
+<p class='m-design-details__description-text' data-utilities--read-more-target='content'>Melalui Merapi4d  , Analisis teknikal menunjukkan BBCA sedang konsolidasi sehat di atas support Rp6.350–Rp6.400 dengan resistance terdekat di Rp6.600–Rp6.750.  </p>
 <br>
-<p class='m-design-details__description-text' data-utilities--read-more-target='content'>di Power88—perlu timing, modal, dan mental juara! Selalu gunakan money management ketat dan DYOR sebelum ambil posisi. Semoga cuan terus mengalir! </p>
+<p class='m-design-details__description-text' data-utilities--read-more-target='content'>di Merapi4d—perlu timing, modal, dan mental juara! Selalu gunakan money management ketat dan DYOR sebelum ambil posisi. Semoga cuan terus mengalir! </p>
 <br>
 <br>
 </div>
@@ -1123,56 +1123,56 @@ Back
   border-bottom: 1px solid rgba(255,255,255,0.1);
   color: #ffcc64;
 ">
-  <span class="grad-text">FAQ Power88 LAYANAN TERPERCAYA</span>
+  <span class="grad-text">FAQ Merapi4d LAYANAN TERPERCAYA</span>
 </div>
 
 <div style="padding: 10px 0;">
 
   <!-- FAQ 1 -->
   <div class="faq-item">
-    <button class="faq-question">1. Apa itu Power88 dan mengapa banyak pemain membicarakannya?</button>
+    <button class="faq-question">1. Apa itu Merapi4d dan mengapa banyak pemain membicarakannya?</button>
     <div class="faq-answer">
-      Power88 merupakan platform hiburan game spin online yang menawarkan berbagai permainan menarik dengan tampilan modern dan sistem yang mudah diakses. Banyak pemain menyukai Power88 karena konsep permainannya santai dan dapat dimainkan kapan saja.
+      Merapi4d merupakan platform hiburan game spin online yang menawarkan berbagai permainan menarik dengan tampilan modern dan sistem yang mudah diakses. Banyak pemain menyukai Merapi4d karena konsep permainannya santai dan dapat dimainkan kapan saja.
     </div>
   </div>
 
   <!-- FAQ 2 -->
   <div class="faq-item">
-    <button class="faq-question">2. Mengapa Power88 menggunakan konsep “Menang Atau Kalah? Spin Aja Dulu Malam Ini”?</button>
+    <button class="faq-question">2. Mengapa Merapi4d menggunakan konsep “Menang Atau Kalah? Spin Aja Dulu Malam Ini”?</button>
     <div class="faq-answer">
-      Konsep tersebut menggambarkan bahwa permainan di Power88 dirancang untuk memberikan hiburan tanpa tekanan. Pemain dapat menikmati setiap putaran spin dengan santai sambil merasakan sensasi permainan yang seru.
+      Konsep tersebut menggambarkan bahwa permainan di Merapi4d dirancang untuk memberikan hiburan tanpa tekanan. Pemain dapat menikmati setiap putaran spin dengan santai sambil merasakan sensasi permainan yang seru.
     </div>
   </div>
 
   <!-- FAQ 3 -->
   <div class="faq-item">
-    <button class="faq-question">3. Apakah permainan di Power88 cocok untuk pemain baru?</button>
+    <button class="faq-question">3. Apakah permainan di Merapi4d cocok untuk pemain baru?</button>
     <div class="faq-answer">
-      Ya, Power88 dirancang dengan sistem permainan yang sederhana sehingga mudah dipahami oleh pemain baru. Navigasi yang jelas dan tampilan yang ramah pengguna membuat siapa pun bisa mulai bermain dengan mudah.
+      Ya, Merapi4d dirancang dengan sistem permainan yang sederhana sehingga mudah dipahami oleh pemain baru. Navigasi yang jelas dan tampilan yang ramah pengguna membuat siapa pun bisa mulai bermain dengan mudah.
     </div>
   </div>
 
   <!-- FAQ 4 -->
   <div class="faq-item">
-    <button class="faq-question">4. Apa saja keunggulan bermain di Power88  ?</button>
+    <button class="faq-question">4. Apa saja keunggulan bermain di Merapi4d  ?</button>
     <div class="faq-answer">
-      Power88 menawarkan berbagai keunggulan seperti akses permainan yang cepat, tampilan visual menarik, koleksi game spin yang beragam, serta sistem platform yang stabil untuk pengalaman bermain yang nyaman.
+      Merapi4d menawarkan berbagai keunggulan seperti akses permainan yang cepat, tampilan visual menarik, koleksi game spin yang beragam, serta sistem platform yang stabil untuk pengalaman bermain yang nyaman.
     </div>
   </div>
 
   <!-- FAQ 5 -->
   <div class="faq-item">
-    <button class="faq-question">5. Bagaimana cara memulai bermain di Power88 ?</button>
+    <button class="faq-question">5. Bagaimana cara memulai bermain di Merapi4d ?</button>
     <div class="faq-answer">
-      Untuk mulai bermain di Power88  , pengguna cukup mengunjungi situs resmi Power88  , melakukan pendaftaran akun, lalu login ke dalam platform untuk menikmati berbagai permainan yang tersedia.
+      Untuk mulai bermain di Merapi4d  , pengguna cukup mengunjungi situs resmi Merapi4d  , melakukan pendaftaran akun, lalu login ke dalam platform untuk menikmati berbagai permainan yang tersedia.
     </div>
   </div>
 
 <!-- FAQ 6 -->
   <div class="faq-item">
-    <button class="faq-question">6. Mengapa Power88 menjadi pilihan hiburan game spin saat ini?</button>
+    <button class="faq-question">6. Mengapa Merapi4d menjadi pilihan hiburan game spin saat ini?</button>
     <div class="faq-answer">
-      Power88 menjadi populer karena menghadirkan pengalaman bermain yang modern, pilihan permainan yang lengkap, serta konsep hiburan yang santai sehingga pemain dapat menikmati setiap putaran permainan dengan lebih menyenangkan.
+      Merapi4d menjadi populer karena menghadirkan pengalaman bermain yang modern, pilihan permainan yang lengkap, serta konsep hiburan yang santai sehingga pemain dapat menikmati setiap putaran permainan dengan lebih menyenangkan.
     </div>
   </div>
 
@@ -1186,7 +1186,7 @@ Back
   font-size: 13px;
   color:#ccc;
 ">
-  &copy;2026 Power88
+  &copy;2026 Merapi4d
 </div>
 
 </div>
@@ -1260,14 +1260,14 @@ document.querySelectorAll('.faq-question').forEach(button => {
     background: linear-gradient(135deg, rgb(202 133 6), rgb(202 133 6));
     border-bottom: 1px solid rgba(255,255,255,0.15);
   ">
-    <span class="grad-text">INFORMASI TENTANG Power88</span>
+    <span class="grad-text">INFORMASI TENTANG Merapi4d</span>
   </div>
 
   <!-- TABLE -->
   <table class="table-hover" style="width:100%; border-collapse:collapse;">
     <tr>
       <td style="padding:14px 18px; border-right:1px solid rgba(255, 0, 0, 0.14);">Nama Situs</td>
-      <td style="padding:14px 18px;" class="grad-text">Power88</td>
+      <td style="padding:14px 18px;" class="grad-text">Merapi4d</td>
     </tr>
 
     <tr>
@@ -1314,7 +1314,7 @@ document.querySelectorAll('.faq-question').forEach(button => {
     border-top: 1px solid rgba(255,255,255,0.14);
     background: linear-gradient(135deg, #161300, #2b2700);
   ">
-    &copy;2026 Power88
+    &copy;2026 Merapi4d
   </div>
 
 </div>
@@ -1329,7 +1329,7 @@ document.querySelectorAll('.faq-question').forEach(button => {
 <div class="tp-text-note cqd-banner__banner tp-text-note--information tp-text-note--on-light"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent tp-text-note--icon"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="24" height="24" focusable="false" aria-hidden="true"><path d="M28.595 5.507c-.198-1.463-1.789-2.005-2.847-.976-2.148 2.09-5.57 5.816-9.26 11.392-3.87 5.85-5.614 9.665-6.377 11.688-.372.988.222 1.917 1.273 2.005 1.357.113 3.646.222 7.416.222h.023c-.015.711-.024 1.458-.024 2.242 0 4.794.308 8.222.606 10.416.198 1.463 1.788 2.005 2.847.976 2.148-2.089 5.57-5.816 9.259-11.392 3.87-5.85 5.615-9.665 6.377-11.688.372-.988-.221-1.917-1.273-2.004-1.357-.113-3.645-.223-7.415-.223h-.023c.015-.711.024-1.458.024-2.242 0-4.794-.308-8.222-.606-10.416Z"></path></svg></span>
 <div class='tp-text-note__body'>
 <p class='tp-text-note__text'>
-Selamat datang di Power88 Akses Resmi Google Update Terbaru Tanpa Gangguan Server Indonesia
+Selamat datang di Merapi4d Akses Resmi Google Update Terbaru Tanpa Gangguan Server Indonesia
 </p>
 </div></div>
 <div class='m-design__tip-container jsProductTips'>
@@ -1455,16 +1455,16 @@ Selamat datang di Power88 Akses Resmi Google Update Terbaru Tanpa Gangguan Serve
 
       <!-- KOLOM KIRI -->
       <div class="mw-left m-design-product-info--product-quality">
-        <h4>PROFIL Power88</h4>
-        <p>Power88 ⚡ Peluang & prediksi saham BBCA BBRI TLKM minggu ini. Analisis lengkap, target harga, dan rekomendasi trading saham bluechip Indonesia.
+        <h4>PROFIL Merapi4d</h4>
+        <p>Merapi4d ⚡ Peluang & prediksi saham BBCA BBRI TLKM minggu ini. Analisis lengkap, target harga, dan rekomendasi trading saham bluechip Indonesia.
         </p>
 
-<!-- 🎰 GENERATOR ANGKA Power88 EDUKASI -->
+<!-- 🎰 GENERATOR ANGKA Merapi4d EDUKASI -->
 <!-- ========================== -->
 
 <div class="generator-container">
   <div class="machine">
-    <h2>Power88 UNDIAN BERHADIAH</h2>
+    <h2>Merapi4d UNDIAN BERHADIAH</h2>
 
     <div class="display" id="display">
       <div class="ball">0</div>
@@ -1716,14 +1716,14 @@ Selamat datang di Power88 Akses Resmi Google Update Terbaru Tanpa Gangguan Serve
       <div class="mw-right">
         <div class="mw-review-box">
 
-          <div class="mw-review-title">REVIEW MEMBERSHIP Power88</div>
+          <div class="mw-review-title">REVIEW MEMBERSHIP Merapi4d</div>
 
           <div class="review-card">
             <div class="review-avatar">AS</div>
             <div>
               <div class="review-name">Labubu - Jakarta</div>
               <div class="review-text">
-                “Saya sudah mencoba banyak platform game online, tapi Power88 terasa berbeda. Tampilan permainannya modern dan setiap spin memberikan sensasi yang seru. Yang paling saya suka adalah aksesnya cepat dan mudah digunakan.”
+                “Saya sudah mencoba banyak platform game online, tapi Merapi4d terasa berbeda. Tampilan permainannya modern dan setiap spin memberikan sensasi yang seru. Yang paling saya suka adalah aksesnya cepat dan mudah digunakan.”
               </div>
             </div>
           </div>
@@ -1733,7 +1733,7 @@ Selamat datang di Power88 Akses Resmi Google Update Terbaru Tanpa Gangguan Serve
             <div>
               <div class="review-name">Srey Neang - Poipet</div>
               <div class="review-text">
-                “Pertama kali mencoba Power88 hanya karena penasaran, tapi ternyata cukup menyenangkan. Pilihan permainan spin yang tersedia juga beragam, jadi tidak cepat bosan saat bermain.”
+                “Pertama kali mencoba Merapi4d hanya karena penasaran, tapi ternyata cukup menyenangkan. Pilihan permainan spin yang tersedia juga beragam, jadi tidak cepat bosan saat bermain.”
               </div>
             </div>
           </div>
@@ -1743,12 +1743,12 @@ Selamat datang di Power88 Akses Resmi Google Update Terbaru Tanpa Gangguan Serve
             <div>
               <div class="review-name">Oun Ya Ya - Poipet</div>
               <div class="review-text">
-                “Menurut saya Power88 adalah salah satu platform hiburan digital yang menarik saat ini. Permainannya simpel, tampilannya bagus, dan pengalaman bermainnya terasa santai namun tetap seru.”
+                “Menurut saya Merapi4d adalah salah satu platform hiburan digital yang menarik saat ini. Permainannya simpel, tampilannya bagus, dan pengalaman bermainnya terasa santai namun tetap seru.”
               </div>
             </div>
           </div>
 
-          <div class="mw-footer">&copy;2026 Power88</div>
+          <div class="mw-footer">&copy;2026 Merapi4d</div>
 
         </div>
       </div>
@@ -1765,7 +1765,7 @@ Selamat datang di Power88 Akses Resmi Google Update Terbaru Tanpa Gangguan Serve
 </div>
 <div class='m-design__additional-info-container'>
 <div class='contain contain--wide-3'>
-<h2 class='h__h2--secondary m-design__h2 h--bright'>Power88 ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini</h2>
+<h2 class='h__h2--secondary m-design__h2 h--bright'>Merapi4d ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini</h2>
 <div class='m-design__additional-info' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='related_tags_artists_applied_tags'>
 <div class='m-design__additional-info' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='related_tags_customers_also_search'>
 <div class='m-design__additional-info' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='related_tags_trending_tags'>
@@ -1773,7 +1773,7 @@ Selamat datang di Power88 Akses Resmi Google Update Terbaru Tanpa Gangguan Serve
 <nav class='m-design__additional-info-list'>
 <div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim"><a href="https://merapi4d.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-Power88
+Merapi4d
 </span>
 
 </a>
@@ -1785,67 +1785,67 @@ DESA 4D
 </a>
 <a href="https://merapi4d.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-Power88 LOGIN
+Merapi4d LOGIN
 </span>
 
 </a>
 <a href="https://merapi4d.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-Power88 DAFTAR
+Merapi4d DAFTAR
 </span>
 
 </a>
 <a href="https://merapi4d.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-Power88 LINK ALTERNATIF
+Merapi4d LINK ALTERNATIF
 </span>
 
 </a>
 <a href="https://merapi4d.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-Power88 RESMI
+Merapi4d RESMI
 </span>
 
 </a>
 <a href="https://merapi4d.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-Power88 TERPERCAYA</span>
+Merapi4d TERPERCAYA</span>
 
 </a>
 <a href="https://merapi4d.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-Power88 ALTERNATIF
+Merapi4d ALTERNATIF
 </span>
 </a>
 
 <a href="https://merapi4d.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-Power88 LIVECHAT
+Merapi4d LIVECHAT
 </span>
 </a>
   
 <a href="https://merapi4d.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-Power88 SLOT
+Merapi4d SLOT
 </span>
 </a>
   
 <a href="https://merapi4d.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-SLOT Power88
+SLOT Merapi4d
 </span>
 </a>
   
 
 <a href="https://merapi4d.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-Power88 TERBAIK
+Merapi4d TERBAIK
 </span>
 </a>
 
 <a href="https://merapi4d.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-Power88 HARI INI
+Merapi4d HARI INI
 </span>
 </a>
 
@@ -1956,7 +1956,7 @@ Share this design:
 <figure class='m-footer__guarantee-image'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
   <img src="https://ik.imagekit.io/hosterin/kadobetin.jpg" 
-       alt="Power88" 
+       alt="Merapi4d" 
        style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;" />
 </span>
 </figure>
@@ -1972,7 +1972,7 @@ Don't love it? We'll fix it. For free.
 <p class='m-footer__guarantee-link'>
 <a target="_blank" href="https://merapi4d.github.io/" class="link link__cta link__cta--on-dark link--default">
 <span class='link__content'>
-Power88
+Merapi4d
 </span>
 
 </a>
@@ -2728,7 +2728,7 @@ Back To Menu
   <img class="vc-header-logo__image" 
        src="https://ik.imagekit.io/hosterin/kadobetin.jpg"
        style="max-width:150px; height:auto; display:block; margin:0 auto;" 
-       alt="Power88">
+       alt="Merapi4d">
 </picture>
 
 
@@ -3333,8 +3333,8 @@ Shop All Designs
   });
 </script>
 <style>
-    /* === FOOTER Power88 PANDUANGAMING TEMA Power88 NEON === */
-    .Power88-fixed-footer {
+    /* === FOOTER Merapi4d PANDUANGAMING TEMA Merapi4d NEON === */
+    .Merapi4d-fixed-footer {
       position: fixed;
       bottom: 0;
       left: 0;
@@ -3355,7 +3355,7 @@ Shop All Designs
     }
     
     /* === Tombol Footer === */
-    .Power88-fixed-footer a {
+    .Merapi4d-fixed-footer a {
       flex: 1;
       max-width: 90px;
       text-align: center;
@@ -3372,27 +3372,27 @@ Shop All Designs
     }
     
     /* Hover efek */
-    .Power88-fixed-footer a:hover {
+    .Merapi4d-fixed-footer a:hover {
       color: #ffffff;
       transform: translateY(-6px) scale(1.1);
       text-shadow: 0 0 10px rgb(202 133 6), 0 0 15px rgb(202 133 6), 0 0 20px rgb(202 133 6);
     }
     
     /* === Ikon tombol === */
-    .Power88-fixed-footer img {
+    .Merapi4d-fixed-footer img {
       width: 26px;
       height: 26px;
       filter: drop-shadow(0 0 5px rgb(202 133 6));
       transition: transform 0.3s ease, filter 0.3s ease;
     }
     
-    .Power88-fixed-footer a:hover img {
+    .Merapi4d-fixed-footer a:hover img {
       transform: scale(1.25);
       filter: drop-shadow(0 0 10px rgb(202 133 6)) drop-shadow(0 0 10px rgb(202 133 6));
     }
     
     /* === Tombol Tengah (Spesial: Daftar) === */
-    .Power88-fixed-footer .tada {
+    .Merapi4d-fixed-footer .tada {
       background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 0%, transparent 70%);
       border-radius: 50%;
       padding: 8px;
@@ -3419,23 +3419,23 @@ Shop All Designs
     }
     
     /* Klik efek */
-    .Power88-fixed-footer a:active {
+    .Merapi4d-fixed-footer a:active {
       transform: scale(0.95);
       opacity: 0.85;
     }
     
     /* === Responsif untuk layar kecil === */
     @media (max-width: 500px) {
-      .Power88-fixed-footer {
+      .Merapi4d-fixed-footer {
         padding: 8px 0;
         border-radius: 16px 16px 0 0;
       }
     
-      .Power88-fixed-footer a {
+      .Merapi4d-fixed-footer a {
         font-size: 11px;
       }
     
-      .Power88-fixed-footer img {
+      .Merapi4d-fixed-footer img {
         width: 22px;
         height: 22px;
       }
@@ -3444,25 +3444,25 @@ Shop All Designs
     </style>
     
 
-<div class="Power88-fixed-footer">
+<div class="Merapi4d-fixed-footer">
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener">
-    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="BONUS Power88">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="BONUS Merapi4d">
     PROMO
   </a>
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener">
-    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="LOGIN Power88">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="LOGIN Merapi4d">
     LOGIN
   </a>
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener" class="tada">
-    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="DAFTAR Power88">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="DAFTAR Merapi4d">
     DAFTAR
   </a>
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener">
-    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="WHATSAPP Power88">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="WHATSAPP Merapi4d">
     WHATSAPP
   </a>
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener">
-    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="LIVE CHAT Power88">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="LIVE CHAT Merapi4d">
     LIVE CHAT
   </a>
 </div>
@@ -3472,10 +3472,10 @@ Shop All Designs
   style="position: fixed; z-index: 9999; width: 100vw; height: 100vh; top: 0; left: 0; background: #00000088; display: flex; align-items: center; justify-content: center; padding: 16px; box-sizing: border-box; overflow-y: auto;">
   <div style="display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 400px;">
 
-    <!-- Banner Power88 -->
+    <!-- Banner Merapi4d -->
     <img
       src="https://ik.imagekit.io/hosterin/kadobetin.jpg"
-      alt="Banner Power88"
+      alt="Banner Merapi4d"
       style="width: 100%; border-radius: 12px; box-shadow: 0 0 12px rgb(250, 250, 250); margin-bottom: 16px;">
 
     <!-- Tombol DAFTAR & LOGIN -->
@@ -3493,12 +3493,12 @@ Shop All Designs
     <!-- Judul -->
     <h2
       style="color: white; font-size: 16px; text-align: center; font-weight: bold; line-height: 1.4; margin: 0 0 16px 0;">
-      Power88 ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini
+      Merapi4d ⚡ Peluang Saham BBCA, BBRI, TLKM & Prediksi Minggu Ini
     </h2>
 
     <!-- Footer -->
     <div style="margin-top: 16px; font-size: 12px; color: #f8f7f7;">
-      © Copyright 2026 <span style="color: #faf9f9;">Power88</span>
+      © Copyright 2026 <span style="color: #faf9f9;">Merapi4d</span>
     </div>
 
   </div>
